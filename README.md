@@ -10,7 +10,7 @@ https://github.com/carterantrobus/Markdown-Previewer/assets/113034271/1f5c0248-4
 #### This project was created with:
 
 * React
-* JQeury
+* JQuery
 * Styled Components
 
 It contains two components, the editor and the previewer, which can both be maximized to focus on one or the other.
